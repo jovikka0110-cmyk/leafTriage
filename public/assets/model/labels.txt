@@ -1,0 +1,11 @@
+paddy_rice_blast
+paddy_brown_spot
+paddy_bacterial_blight
+tomato_early_blight
+tomato_leaf_curl
+banana_sigatoka
+banana_panama_wilt
+groundnut_tikka_leaf_spot
+chilli_anthracnose
+healthy_leaf
+unknown_leaf

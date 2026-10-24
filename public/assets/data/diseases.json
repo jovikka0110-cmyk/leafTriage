@@ -1,0 +1,402 @@
+[
+  {
+    "id": "paddy_blast",
+    "crop": "Paddy",
+    "crop_ta": "நெல்",
+    "icon": "🌾",
+    "names": {
+      "en": "Rice Blast",
+      "ta": "நெல் குலை நோய்"
+    },
+    "symptoms": {
+      "en": "Spindle-shaped brown lesions with greyish-white centers on leaf blades. Lesions enlarge and coalesce, causing entire leaves to dry up and die.",
+      "ta": "இலைகளில் நீள்வட்ட வடிவிலான (கதிர் வடிவ) பழுப்பு நிறப் புள்ளிகள் தோன்றும். நடுப்பகுதி சாம்பல் நிறமாக இருக்கும். புள்ளிகள் ஒன்றுசேர்ந்து இலைகள் கருகி உதிர்ந்துவிடும்."
+    },
+    "cause": {
+      "en": "Magnaporthe oryzae (fungus), favored by cool night temperatures, high relative humidity, and excessive nitrogen fertilizer.",
+      "ta": "மேக்னாபோர்த்தே ஒரைசே என்ற பூஞ்சை. அதிக பனிப்பொழிவு, ஈரப்பதம் மற்றும் அளவுக்கு அதிகமான தழைச்சத்து (யூரியா) இடுவதால் வேகமாக பரவுகிறது."
+    },
+    "traditional_remedies": [
+      {
+        "title": {
+          "en": "Panchagavya Organic Spray",
+          "ta": "பஞ்சகாவ்யா இயற்கை தெளிப்பு"
+        },
+        "steps": {
+          "en": "Dilute Panchagavya with clean water. Spray thoroughly on the upper and lower surfaces of leaves during early morning or late afternoon.",
+          "ta": "பஞ்சகாவ்யாவை சுத்தமான நீரில் கலக்கவும். அதிகாலை அல்லது மாலை வேளையில் இலைகளின் மேற்புறம் மற்றும் கீழ்ப்புறத்தில் நன்கு படியுமாறு தெளிக்கவும்."
+        },
+        "quantity": {
+          "en": "300 ml in 10 liters of water (3% solution)",
+          "ta": "10 லிட்டர் தண்ணீருக்கு 300 மி.லி (3% கரைசல்)"
+        },
+        "frequency": {
+          "en": "Spray once every 10 to 12 days until recovery",
+          "ta": "நோய் கட்டுப்படும் வரை 10 முதல் 12 நாட்களுக்கு ஒருமுறை"
+        }
+      },
+      {
+        "title": {
+          "en": "Fermented Butter Milk & Asafoetida Spray",
+          "ta": "புளித்த மோர் மற்றும் பெருங்காயக் கரைசல்"
+        },
+        "steps": {
+          "en": "Mix well-fermented sour buttermilk with powdered asafoetida. Strain with cotton cloth and spray on the foliage.",
+          "ta": "நன்கு புளித்த மோரில் பெருங்காயத்தூள் சேர்த்து கலக்கவும். துணியால் வடிகட்டி பயிரின் மேல் தெளிக்க வேண்டும்."
+        },
+        "quantity": {
+          "en": "500 ml sour buttermilk + 10 g asafoetida in 10 liters water",
+          "ta": "10 லிட்டர் தண்ணீருக்கு 500 மி.லி புளித்த மோர் + 10 கிராம் பெருங்காயம்"
+        },
+        "frequency": {
+          "en": "Apply twice with a gap of 7 days",
+          "ta": "7 நாட்கள் இடைவெளியில் இரண்டு முறை தெளிக்கவும்"
+        }
+      }
+    ],
+    "fertilizer_remedies": [
+      {
+        "name": {
+          "en": "Tricyclazole 75% WP [PLACEHOLDER - VERIFY WITH ADO]",
+          "ta": "டிரைசைக்ளசோல் 75% WP [மாதிரி அளவு - வேளாண் அதிகாரியிடம் உறுதி செய்க]"
+        },
+        "dose": {
+          "en": "120 g per acre (Approx. 0.6 g per liter of water) [PLACEHOLDER]",
+          "ta": "ஏக்கருக்கு 120 கிராம் (தோராயமாக ஒரு லிட்டர் தண்ணீருக்கு 0.6 கிராம்) [மாதிரி அளவு]"
+        },
+        "how_to_apply": {
+          "en": "Dissolve prescribed quantity in 200 liters of water per acre. Spray evenly on the foliage during early symptoms.",
+          "ta": "பரிந்துரைக்கப்பட்ட அளவை ஏக்கருக்கு 200 லிட்டர் நீரில் கலந்து இலைகளின் மேல் சீராக தெளிக்கவும்."
+        },
+        "safety": {
+          "en": "Wear rubber gloves and face mask. Do not inhale or smoke while spraying. Wash hands with soap immediately.",
+          "ta": "கையுறைகள் மற்றும் முகக்கவசம் கட்டாயம் அணிய வேண்டும். தெளிக்கும் போது உணவு உண்பதையோ புகைப்பிடிப்பதையோ தவிர்க்கவும். உடனடியாக சோப்பு போட்டு கை கழுவவும்."
+        }
+      },
+      {
+        "name": {
+          "en": "Azoxystrobin 18.2% + Difenoconazole 11.4% SC [PLACEHOLDER]",
+          "ta": "அசோக்சிஸ்ட்ரோபின் + டைபினோகோனசோல் [மாதிரி அளவு]"
+        },
+        "dose": {
+          "en": "200 ml per acre in 200 liters of water [PLACEHOLDER]",
+          "ta": "ஏக்கருக்கு 200 மி.லி (200 லிட்டர் தண்ணீரில்) [மாதிரி அளவு]"
+        },
+        "how_to_apply": {
+          "en": "Spray when leaf blast lesions first appear on leaves to stop fungal spore spread.",
+          "ta": "இலையில் முதல் புள்ளி தோன்றும் போதே தெளித்து பூஞ்சை பரவுவதைத் தடுக்கவும்."
+        },
+        "safety": {
+          "en": "Keep cattle and domestic animals away from treated field for at least 7 days.",
+          "ta": "தெளிக்கப்பட்ட வயலில் 7 நாட்களுக்கு கால்நடைகளை மேய விடக்கூடாது."
+        }
+      }
+    ],
+    "prevention": {
+      "en": "Avoid excessive nitrogen fertilizers. Treat seeds with Trichoderma viride (4g/kg) before sowing. Maintain balanced irrigation.",
+      "ta": "அதிகப்படியான யூரியாவைத் தவிர்க்கவும். விதைக்கும் முன் டிரைக்கோடெர்மா விரிடி (கிலோவுக்கு 4 கிராம்) கொண்டு விதை நேர்த்தி செய்யவும். சமச்சீரான நீர் பாசனம் தரவும்."
+    }
+  },
+  {
+    "id": "tomato_early_blight",
+    "crop": "Tomato",
+    "crop_ta": "தக்காளி",
+    "icon": "🍅",
+    "names": {
+      "en": "Early Blight",
+      "ta": "ஆரம்ப இலைக்கருகல் நோய்"
+    },
+    "symptoms": {
+      "en": "Dark brown to black spots with concentric rings ('target-board' pattern) on older lower leaves, turning yellow and dropping prematurely.",
+      "ta": "அடி இலைகளில் வளைய வடிவிலான (இலக்கு பலகை போன்ற) அடர் பழுப்பு நிற புள்ளிகள் தோன்றும். இலைகள் மஞ்சள் நிறமாக மாறி உதிரும்."
+    },
+    "cause": {
+      "en": "Alternaria solani (fungus), thrives in warm humid weather with frequent rain or dew.",
+      "ta": "ஆல்டர்நேரியா சொலானி பூஞ்சை. மிதமான வெப்பமும் அதிக ஈரப்பதமும் இருக்கும் போது விரைவாக பரவுகிறது."
+    },
+    "traditional_remedies": [
+      {
+        "title": {
+          "en": "Neem Seed Kernel Extract (NSKE 5%)",
+          "ta": "வேப்பங்கொட்டை சாறு (NSKE 5%)"
+        },
+        "steps": {
+          "en": "Crush 500g of neem seeds, soak in 10 liters of water overnight, filter through muslin cloth, add 10ml soap solution, and spray.",
+          "ta": "500 கிராம் வேப்பங்கொட்டையை இடித்து 10 லிட்டர் நீரில் இரவு முழுவதும் ஊற வைக்கவும். துணியால் வடிகட்டி 10 மி.லி காதி சோப் கரைசல் சேர்த்து தெளிக்கவும்."
+        },
+        "quantity": {
+          "en": "500 ml NSKE in 10 liters water",
+          "ta": "10 லிட்டர் தண்ணீருக்கு 500 மி.லி வேப்பங்கொட்டை சாறு"
+        },
+        "frequency": {
+          "en": "Spray every 7 to 10 days",
+          "ta": "7 முதல் 10 நாட்களுக்கு ஒருமுறை"
+        }
+      },
+      {
+        "title": {
+          "en": "Cow Dung & Urine Filtrate Spray",
+          "ta": "பசுஞ்சாணம் & கோமியம் தெளிப்பு"
+        },
+        "steps": {
+          "en": "Mix 1 kg fresh cow dung and 1 liter cow urine in 10 liters of water. Let it ferment for 24 hours. Strain and spray.",
+          "ta": "1 கிலோ பசுஞ்சாணம் மற்றும் 1 லிட்டர் கோமியத்தை 10 லிட்டர் தண்ணீரில் கலக்கவும். 24 மணி நேரம் ஊறவைத்து வடிகட்டி இலைகளில் தெளிக்கவும்."
+        },
+        "quantity": {
+          "en": "1:10 dilution with clean water",
+          "ta": "10 லிட்டர் தண்ணீருக்கு 1 லிட்டர் வடிகட்டிய கரைசல்"
+        },
+        "frequency": {
+          "en": "Once every 12 days",
+          "ta": "12 நாட்களுக்கு ஒருமுறை"
+        }
+      }
+    ],
+    "fertilizer_remedies": [
+      {
+        "name": {
+          "en": "Mancozeb 75% WP [PLACEHOLDER - VERIFY WITH ADO]",
+          "ta": "மேன்கோசெப் 75% WP [மாதிரி அளவு - வேளாண் அதிகாரியிடம் உறுதி செய்க]"
+        },
+        "dose": {
+          "en": "2 g to 2.5 g per liter of water (Approx. 400-500g/acre) [PLACEHOLDER]",
+          "ta": "ஒரு லிட்டர் தண்ணீருக்கு 2 முதல் 2.5 கிராம் (ஏக்கருக்கு 400-500 கிராம்) [மாதிரி அளவு]"
+        },
+        "how_to_apply": {
+          "en": "Spray on both upper and lower surface of leaves. Repeat after 10 days if symptoms persist.",
+          "ta": "இலையின் இருபுறமும் படும்படி தெளிக்கவும். நோய் தீவிரம் குறையவில்லையெனில் 10 நாட்கள் கழித்து மீண்டும் தெளிக்கவும்."
+        },
+        "safety": {
+          "en": "Strictly do not spray under strong sunlight or windy conditions. Keep away from children and water sources.",
+          "ta": "கடும் வெயில் அல்லது பலத்த காற்றில் தெளிக்க வேண்டாம். குழந்தைகள் மற்றும் குடிநீர் நிலைகளிலிருந்து தள்ளி வைக்கவும்."
+        }
+      },
+      {
+        "name": {
+          "en": "Copper Oxychloride 50% WP [PLACEHOLDER]",
+          "ta": "காப்பர் ஆக்சிகுளோரைடு 50% WP [மாதிரி அளவு]"
+        },
+        "dose": {
+          "en": "2.5 g to 3 g per liter of water [PLACEHOLDER]",
+          "ta": "ஒரு லிட்டர் தண்ணீருக்கு 2.5 முதல் 3 கிராம் [மாதிரி அளவு]"
+        },
+        "how_to_apply": {
+          "en": "Spray thoroughly targeting the infected lower canopy.",
+          "ta": "பாதிக்கப்பட்ட அடிப்பகுதி இலைகளைக் குறிவைத்து முழுமையாகத் தெளிக்கவும்."
+        },
+        "safety": {
+          "en": "Wear protective eyewear and wash spraying equipment thoroughly after use.",
+          "ta": "பாதுகாப்புக் கண்ணாடி அணியவும். பயன்படுத்திய பின் தெளிப்பானை நன்கு கழுவவும்."
+        }
+      }
+    ],
+    "prevention": {
+      "en": "Practice crop rotation with non-solanaceous crops. Stake plants to keep leaves off wet soil. Water at the base, not overhead.",
+      "ta": "தக்காளிக்கு பின் கத்தரி நடாமல் பயிர் சுழற்சி செய்யவும். செடிகளை குச்சிகட்டி தூக்கி நடவும். செடியின் மேல் நீர் தெளிக்காமல் தூரில் பாய்ச்சவும்."
+    }
+  },
+  {
+    "id": "banana_sigatoka",
+    "crop": "Banana",
+    "crop_ta": "வாழை",
+    "icon": "🍌",
+    "names": {
+      "en": "Sigatoka Leaf Spot",
+      "ta": "சிகடோகா இலைப்புள்ளி நோய்"
+    },
+    "symptoms": {
+      "en": "Small yellowish-green specks that lengthen into reddish-brown to dark streaks parallel to leaf veins, causing leaf drying and premature ripening of bunches.",
+      "ta": "இலை நரம்புகளுக்கு இணையாக சிறிய மஞ்சள் புள்ளிகள் தோன்றி, பின்னர் அடர் பழுப்பு நிற கோடுகளாக மாறும். இலைகள் காய்ந்து தார் முதிர்வதற்கு முன்பே பழுத்துவிடும்."
+    },
+    "cause": {
+      "en": "Pseudocercospora fijiensis / musae (fungus), accelerated by stagnant water, poor drainage, and heavy shade.",
+      "ta": "சூடோசெர்கோஸ்போரா பூஞ்சை. தோட்டத்தில் நீர் தேங்குவது, போதிய வடிகால் இல்லாமை மற்றும் அதிக நிழல் ஆகியவற்றால் ஏற்படுகிறது."
+    },
+    "traditional_remedies": [
+      {
+        "title": {
+          "en": "Field Sanitation & Leaf Pruning (உழவியல் முறை)",
+          "ta": "பாதிக்கப்பட்ட இலைகளை வெட்டி அகற்றுதல்"
+        },
+        "steps": {
+          "en": "Cut off severely dried, infected leaves with a clean sickle and bury or burn them outside the field to break fungal cycle.",
+          "ta": "அதிகம் காய்ந்த நோயுற்ற இலைகளை சுத்தமான அரிவாளால் வெட்டி தோட்டத்திற்கு வெளியே குழிதோண்டி புதைத்து அல்லது தீயிட்டு அழிக்கவும்."
+        },
+        "quantity": {
+          "en": "Regular inspection every 15 days",
+          "ta": "15 நாட்களுக்கு ஒருமுறை கள ஆய்வு"
+        },
+        "frequency": {
+          "en": "Continuous throughout monsoon season",
+          "ta": "பருவமழை காலம் முழுவதும் தொடர்ச்சியாக"
+        }
+      },
+      {
+        "title": {
+          "en": "Ginger-Garlic-Chilli Herbal Spray",
+          "ta": "இஞ்சி - பூண்டு - மிளகாய் மூலிகைக் கரைசல்"
+        },
+        "steps": {
+          "en": "Grind 500g ginger, 500g garlic, and 500g green chillies into paste. Dissolve in 10 liters of water, strain, and spray on leaves.",
+          "ta": "500 கிராம் இஞ்சி, 500 கிராம் பூண்டு, 500 கிராம் பச்சை மிளகாய் ஆகியவற்றை அரைத்து 10 லிட்டர் நீரில் கலக்கவும். வடிகட்டி இலைகளில் தெளிக்கவும்."
+        },
+        "quantity": {
+          "en": "500 ml extract in 10 liters of water",
+          "ta": "10 லிட்டர் தண்ணீருக்கு 500 மி.லி கரைசல்"
+        },
+        "frequency": {
+          "en": "Every 14 days",
+          "ta": "14 நாட்களுக்கு ஒருமுறை"
+        }
+      }
+    ],
+    "fertilizer_remedies": [
+      {
+        "name": {
+          "en": "Propiconazole 25% EC [PLACEHOLDER - VERIFY WITH ADO]",
+          "ta": "புரோபிகோனசோல் 25% EC [மாதிரி அளவு - வேளாண் அதிகாரியிடம் உறுதி செய்க]"
+        },
+        "dose": {
+          "en": "1 ml per liter of water + mineral oil (10 ml/L) [PLACEHOLDER]",
+          "ta": "ஒரு லிட்டர் தண்ணீருக்கு 1 மி.லி + 10 மி.லி மினரல் ஆயில் [மாதிரி அளவு]"
+        },
+        "how_to_apply": {
+          "en": "Spray on the lower surface of newly emerged banana leaves.",
+          "ta": "புதிதாக வெளிவரும் வாழை இலைகளின் அடிப்பகுதியில் நன்கு படியுமாறு தெளிக்கவும்."
+        },
+        "safety": {
+          "en": "Do not harvest fruits within 21 days of spraying. Use full protective clothing.",
+          "ta": "தெளித்த 21 நாட்களுக்கு பழங்களை அறுவடை செய்யக்கூடாது. முழு உடல் பாதுகாப்பு ஆடை அணியவும்."
+        }
+      }
+    ],
+    "prevention": {
+      "en": "Ensure proper drainage trench between banana rows. Remove excess suckers (keep mother plant + 1 follower). Maintain proper plant spacing.",
+      "ta": "வாழை வரப்புகளுக்கு இடையே வடிகால் வாய்க்கால் அமைக்கவும். தேவையற்ற பக்கக் கன்றுகளை நீக்கி தாய்ச் செடி மற்றும் ஒரு கன்றை மட்டும் பராமரிக்கவும்."
+    }
+  },
+  {
+    "id": "groundnut_tikka",
+    "crop": "Groundnut",
+    "crop_ta": "நிலக்கடலை",
+    "icon": "🥜",
+    "names": {
+      "en": "Tikka Leaf Spot",
+      "ta": "டிக்கா இலைப்புள்ளி நோய்"
+    },
+    "symptoms": {
+      "en": "Circular dark spots surrounded by a bright yellow halo on leaf surface, leading to early defoliation and poor pod development.",
+      "ta": "இலைகளின் மேல் மஞ்சள் நிற வளையத்துடன் கூடிய வட்ட வடிவ அடர் பழுப்பு புள்ளிகள் தோன்றும். இலைகள் கொட்டி காய்கள் சரிவர பிடிப்பதில்லை."
+    },
+    "cause": {
+      "en": "Cercospora personata / arachidicola (fungus), spreading in warm, wet soil conditions and prolonged humidity.",
+      "ta": "செர்கோஸ்போரா பூஞ்சை. காற்றில் அதிக ஈரப்பதம் மற்றும் மழைக்காலங்களில் விரைவாக பரவுகிறது."
+    },
+    "traditional_remedies": [
+      {
+        "title": {
+          "en": "Agni Astra (அக்னி அஸ்திரம்)",
+          "ta": "அக்னி அஸ்திர இயற்கை கரைசல்"
+        },
+        "steps": {
+          "en": "Boil neem leaves, tobacco leaves, green chillies, garlic paste in cow urine. Cool, filter, and spray.",
+          "ta": "வேப்பிலை, புகையிலை, பச்சை மிளகாய், பூண்டு ஆகியவற்றை பசுங்கோமியத்தில் காய்ச்சி வடித்தெடுத்து தெளிக்கவும்."
+        },
+        "quantity": {
+          "en": "300 ml in 10 liters water",
+          "ta": "10 லிட்டர் தண்ணீருக்கு 300 மி.லி"
+        },
+        "frequency": {
+          "en": "Apply every 10 to 14 days",
+          "ta": "10 முதல் 14 நாட்களுக்கு ஒருமுறை"
+        }
+      }
+    ],
+    "fertilizer_remedies": [
+      {
+        "name": {
+          "en": "Carbendazim 12% + Mancozeb 63% WP [PLACEHOLDER - VERIFY WITH ADO]",
+          "ta": "கார்பென்டசிம் + மேன்கோசெப் WP [மாதிரி அளவு - வேளாண் அதிகாரியிடம் உறுதி செய்க]"
+        },
+        "dose": {
+          "en": "2 g per liter of water [PLACEHOLDER]",
+          "ta": "ஒரு லிட்டர் தண்ணீருக்கு 2 கிராம் [மாதிரி அளவு]"
+        },
+        "how_to_apply": {
+          "en": "Spray 40-45 days after sowing or at the initial sight of spots.",
+          "ta": "விதைத்த 40-45 நாட்களுக்குப் பிறகு அல்லது முதல் புள்ளி தெரிந்தவுடன் தெளிக்கவும்."
+        },
+        "safety": {
+          "en": "Wear mask and gloves. Keep strictly away from cattle feeds.",
+          "ta": "முகக்கவசம் மற்றும் கையுறை அணியவும். கால்நடை தீவனங்களிலிருந்து தள்ளி வைக்கவும்."
+        }
+      }
+    ],
+    "prevention": {
+      "en": "Seed treatment with Trichoderma viride at 4 g/kg seed. Avoid sowing groundnut continuously in the same plot.",
+      "ta": "விதைக்கும் முன் டிரைக்கோடெர்மா விரிடி (கிலோவுக்கு 4 கிராம்) கலந்து விதை நேர்த்தி செய்யவும். ஒரே நிலத்தில் தொடர்ந்து கடலை பயிரிடாதீர்கள்."
+    }
+  },
+  {
+    "id": "chilli_anthracnose",
+    "crop": "Chilli",
+    "crop_ta": "மிளகாய்",
+    "icon": "🌶️",
+    "names": {
+      "en": "Anthracnose / Fruit Rot",
+      "ta": "கனி அழுகல் / ஆந்த்ராக்னோஸ் நோய்"
+    },
+    "symptoms": {
+      "en": "Sunken circular dark lesions on green and ripe chilli fruits with concentric rings of black dots, causing fruit shriveling and dropping.",
+      "ta": "பச்சை மற்றும் பழுத்த மிளகாய்களில் பள்ளமான வட்ட வடிவ புள்ளிகள் தோன்றும். பழங்கள் சுருங்கி காய்ந்து உதிர்ந்துவிடும்."
+    },
+    "cause": {
+      "en": "Colletotrichum capsici (fungus), favored by high humidity (over 80%) and warm temperature (28°C).",
+      "ta": "கொல்லெட்டோட்ரைக்கம் பூஞ்சை. காற்றில் 80%-க்கு மேல் ஈரப்பதம் மற்றும் வெதுவெதுப்பான வெப்பநிலை இருக்கும் போது தீவிரமடைகிறது."
+    },
+    "traditional_remedies": [
+      {
+        "title": {
+          "en": "Fermented Garlic & Chilli Extract",
+          "ta": "புளித்த பூண்டு-மிளகாய் சாறு"
+        },
+        "steps": {
+          "en": "Crush 250g garlic and 250g chillies, ferment in water with a spoon of turmeric for 48 hours. Strain and spray.",
+          "ta": "250 கிராம் பூண்டு, 250 கிராம் மிளகாயை நசுக்கி சிறிது மஞ்சள் தூள் சேர்த்து 48 மணி நேரம் ஊற வைக்கவும். வடிகட்டி தெளிக்கவும்."
+        },
+        "quantity": {
+          "en": "250 ml in 10 liters water",
+          "ta": "10 லிட்டர் தண்ணீருக்கு 250 மி.லி"
+        },
+        "frequency": {
+          "en": "Every 7 days during flowering and fruiting",
+          "ta": "பூக்கும் மற்றும் காய் பிடிக்கும் பருவத்தில் 7 நாட்களுக்கு ஒருமுறை"
+        }
+      }
+    ],
+    "fertilizer_remedies": [
+      {
+        "name": {
+          "en": "Azoxystrobin 23% SC [PLACEHOLDER - VERIFY WITH ADO]",
+          "ta": "அசோக்சிஸ்ட்ரோபின் 23% SC [மாதிரி அளவு - வேளாண் அதிகாரியிடம் உறுதி செய்க]"
+        },
+        "dose": {
+          "en": "1 ml per liter of water [PLACEHOLDER]",
+          "ta": "ஒரு லிட்டர் தண்ணீருக்கு 1 மி.லி [மாதிரி அளவு]"
+        },
+        "how_to_apply": {
+          "en": "Spray at flowering stage and repeat 15 days later if damp weather continues.",
+          "ta": "பூ பூக்கும் தருணத்தில் ஒருமுறையும், ஈரப்பதம் தொடர்ந்தால் 15 நாட்கள் கழித்து மறுமுறையும் தெளிக்கவும்."
+        },
+        "safety": {
+          "en": "Do not harvest chillies within 5 days of spray. Wash all tools after use.",
+          "ta": "தெளித்த 5 நாட்களுக்கு மிளகாய் பறிக்கக்கூடாது. பயன்பாட்டிற்கு பின் உபகரணங்களை கழுவவும்."
+        }
+      }
+    ],
+    "prevention": {
+      "en": "Use certified disease-free seeds. Treat seeds with Pseudomonas fluorescens (10 g/kg). Ensure good row aeration.",
+      "ta": "சான்றளிக்கப்பட்ட விதைகளைப் பயன்படுத்தவும். சூடோமோனாஸ் புளோரசன்ஸ் கொண்டு விதை நேர்த்தி செய்யவும். செடிகளுக்கு இடையே நல்ல காற்று வசதி இருக்கட்டும்."
+    }
+  }
+]

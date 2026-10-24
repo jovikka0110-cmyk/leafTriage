@@ -1,0 +1,36 @@
+{
+  "classes": [
+    { "index": 0, "id": "paddy_blast", "crop": "Paddy", "name_en": "Rice Blast Disease", "name_ta": "நெல் குலை நோய்" },
+    { "index": 1, "id": "paddy_bacterial_blight", "crop": "Paddy", "name_en": "Bacterial Leaf Blight", "name_ta": "பாக்டீரியா இலைக்கருகல் நோய்" },
+    { "index": 2, "id": "tomato_early_blight", "crop": "Tomato", "name_en": "Tomato Early Blight", "name_ta": "தக்காளி ஆரம்ப இலைக்கருகல்" },
+    { "index": 3, "id": "tomato_late_blight", "crop": "Tomato", "name_en": "Tomato Late Blight", "name_ta": "தக்காளி தாமதமான இலைக்கருகல்" },
+    { "index": 4, "id": "tomato_leaf_mold", "crop": "Tomato", "name_en": "Tomato Leaf Mold", "name_ta": "தக்காளி இலை அச்சு நோய்" },
+    { "index": 5, "id": "tomato_yellow_leaf_curl", "crop": "Tomato", "name_en": "Tomato Yellow Leaf Curl Virus", "name_ta": "தக்காளி மஞ்சள் இலை திருப்பம்" },
+    { "index": 6, "id": "potato_early_blight", "crop": "Potato", "name_en": "Potato Early Blight", "name_ta": "உருளைக்கிழங்கு ஆரம்ப இலைக்கருகல்" },
+    { "index": 7, "id": "potato_late_blight", "crop": "Potato", "name_en": "Potato Late Blight", "name_ta": "உருளைக்கிழங்கு தாமதமான இலைக்கருகல்" },
+    { "index": 8, "id": "banana_sigatoka", "crop": "Banana", "name_en": "Banana Sigatoka Leaf Spot", "name_ta": "வாழை சிகடோகா இலைப்புள்ளி நோய்" },
+    { "index": 9, "id": "chilli_anthracnose", "crop": "Chilli", "name_en": "Chilli Anthracnose Rot", "name_ta": "மிளகாய் அழுகல் நோய்" },
+    { "index": 10, "id": "pepper_bacterial_spot", "crop": "Pepper", "name_en": "Bell Pepper Bacterial Spot", "name_ta": "மிளகாய் பாக்டீரியா புள்ளி நோய்" },
+    { "index": 11, "id": "groundnut_tikka", "crop": "Groundnut", "name_en": "Groundnut Tikka Leaf Spot", "name_ta": "நிலக்கடலை டிக்கா இலைப்புள்ளி நோய்" },
+    { "index": 12, "id": "apple_scab", "crop": "Apple", "name_en": "Apple Scab", "name_ta": "பழம் பொட்டு நோய்" },
+    { "index": 13, "id": "grape_black_rot", "crop": "Grape", "name_en": "Grape Black Rot", "name_ta": "திராட்சை கருப்புப் புழுதி நோய்" },
+    { "index": 14, "id": "maize_common_rust", "crop": "Maize", "name_en": "Maize Common Rust", "name_ta": "சோளம் பொதுவான துரு நோய்" },
+    { "index": 15, "id": "maize_gray_leaf_spot", "crop": "Maize", "name_en": "Maize Gray Leaf Spot", "name_ta": "சோளம் சாம்பல் இலைப்புள்ளி நோய்" }
+  ],
+  "crops": {
+    "paddy": ["paddy_blast", "paddy_bacterial_blight"],
+    "rice": ["paddy_blast", "paddy_bacterial_blight"],
+    "tomato": ["tomato_early_blight", "tomato_late_blight", "tomato_leaf_mold", "tomato_yellow_leaf_curl"],
+    "potato": ["potato_early_blight", "potato_late_blight"],
+    "banana": ["banana_sigatoka"],
+    "groundnut": ["groundnut_tikka"],
+    "peanut": ["groundnut_tikka"],
+    "chilli": ["chilli_anthracnose"],
+    "pepper": ["pepper_bacterial_spot", "chilli_anthracnose"],
+    "bell pepper": ["pepper_bacterial_spot"],
+    "apple": ["apple_scab"],
+    "grape": ["grape_black_rot"],
+    "maize": ["maize_common_rust", "maize_gray_leaf_spot"],
+    "corn": ["maize_common_rust", "maize_gray_leaf_spot"]
+  }
+}
